@@ -12,6 +12,18 @@ Esses três papeis são desempenhados pelo conteúdo de um livro. O livro em que
 
 Só aqui alguns caminhos a seguir: mostrar a redução da desigualdade, os setores que expandiram, o uso de mão de obra menos qualificada e a o grau de instrução dos trabalhadores contratados, mostrar a valorização do salário-mínimo. A porta que quis entrar:  o aumento da concessão do programa assistencial Bolsa Família
 
+## As Dificuldades
+Conceitos e abstrações não estão frescas na minha memória.
+Não ter um cartão de credito válido em mãos porém não impediu de passar algum tempo no BigQuery (o serviço de banco de dados em nuvem da Google).
+Usar SQL não é um problema. Diante do mar de dados usei uma tabela relativamente pequena e fiz o download para minha máquina.
+
+
+## Aprendizado
+Ciência e tecnologia: estudar sempre igual a um musculo.
+Passar mais tempo no banco de dados na nuvem e assim desafios maiores.
+Gerenciar o tempo e lidar com a frustração.
+
+
 
 <h4 align="center"> 
 	🚧  React Select 🚀 Um dia a música acabe e esse projeto também...  🚧
