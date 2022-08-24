@@ -1,11 +1,4 @@
-<h1 align="center"Valsa Brasileira. Usando Python para provar uma ideia.</h1>
-<p align="center">
- <a href="#ideia">A Idéia</a> •
- <a href="#feito">Resultados</a> • 
- <a href="#difiuldades">As Dificuldades</a> • 
- <a href="#aprendi">Aprendizado</a> • 
- <a href="#autor">Autor</a>
-</p>
+#Valsa Brasileira. Usando Python para provar uma ideia.
 
 ## A Ideia
 Um projeto de Ciência de Dados parte de uma boa pergunta. Pode ser influenciado por um viés. E é o produto do trabalho de uma parceria entre um especialista de uma área do conhecimento que ajuda o programador/analista no seu trabalho.
