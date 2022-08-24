@@ -1,8 +1,8 @@
 # Valsa Brasileira. Usando Python para provar uma ideia.
 
 ## A Ideia
-<p ali>Um projeto de Ciência de Dados parte de uma boa pergunta. Pode ser influenciado por um viés. E é o produto do trabalho de uma parceria entre um especialista de uma área do conhecimento que ajuda o programador/analista no seu trabalho.
-Esses três papeis são desempenhados pelo conteúdo de um livro. O livro em questão é a “Valsa Brasileira” da economista Laura Carvalho que foi editado pela Todavia em 2018.
+<pi>Um projeto de Ciência de Dados parte de uma boa pergunta. Pode ser influenciado por um viés. E é o produto do trabalho de uma parceria entre um especialista de uma área do conhecimento que ajuda o programador/analista no seu trabalho.
+Esses três papeis são desempenhados pelo conteúdo de um livro. O livro em questão é a “Valsa Brasileira” da economista Laura Carvalho que foi editado pela Todavia em 2018. O trecho a seguir orientou essa análise.
 
 > O mesmo nexo causal pode ser encontrado no período entre 2006 e 2010. Só que, dessa vez, o crescimento maior trouxe consigo uma redução das desigualdades. As transferências de renda via Bolsa Família, a valorização mais acelerada do salário mínimo e a inclusão no mercado de consumo de uma parte significativa da população brasileira levaram à expansão de setores cuja produção demandava uma mão de obra menos qualificada. É o caso de muitos setores de serviços e da construção civil, que cresceram de forma expressiva no período. Como esses setores empregam muitos trabalhadores menos instruídos, o grau de formalização e os salários na base da pirâmide subiram mais ainda, reforçando o processo.
 
