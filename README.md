@@ -25,8 +25,8 @@ Gerenciar o tempo e lidar com a frustração.
 
 
 
-### Autor
 ---
 Adilson Sampaio
+<p>
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adilson-sampaio-00929aa/)](https://www.linkedin.com/in/adilson-sampaio-00929aa/)
-[![Gmail Badge](https://img.shields.io/badge/-adilsam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adilsam@gmail.com)](mailto:adilsam@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-adilsam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adilsam@gmail.com)](mailto:adilsam@gmail.com)</p>
