@@ -1,4 +1,4 @@
-#Valsa Brasileira. Usando Python para provar uma ideia.
+# Valsa Brasileira. Usando Python para provar uma ideia.
 
 ## A Ideia
 Um projeto de Ciência de Dados parte de uma boa pergunta. Pode ser influenciado por um viés. E é o produto do trabalho de uma parceria entre um especialista de uma área do conhecimento que ajuda o programador/analista no seu trabalho.
