@@ -12,6 +12,9 @@ Esses três papeis são desempenhados pelo conteúdo de um livro. O livro em que
 
 Só aqui alguns caminhos a seguir: mostrar a redução da desigualdade, os setores que expandiram, o uso de mão de obra menos qualificada e a o grau de instrução dos trabalhadores contratados, mostrar a valorização do salário-mínimo. A porta que quis entrar:  o aumento da concessão do programa assistencial Bolsa Família." Edição do Kindle posição  185-193
 
+## Fonte dos Dados.
+Como diz no site “A Base dos Dados é uma organização não-governamental sem fins lucrativos e open source que atua para universalizar o acesso a dados de qualidade.” (https://basedosdados.org/). E lá esta tudo muito bem explicado do que tem disponível e como acessar.
+
 ## As Dificuldades
 - Conceitos e abstrações não estão frescas na minha memória.
 - Não ter um cartão de credito válido em mãos porém não impediu de passar algum tempo no BigQuery (o serviço de banco de dados em nuvem da Google).
