@@ -8,9 +8,11 @@ Esses três papeis são desempenhados pelo conteúdo de um livro. O livro em que
 
 > Ao provocar um aumento mais acelerado dos salários nas ocupações que exigiam menor qualificação, tais alterações no padrão de consumo e na estrutura produtiva colaboraram com o círculo virtuoso de dinamismo do mercado interno e do mercado de trabalho que vigorou até 2010.
 
-> Em resumo, o processo de redução de desigualdades no Brasil durante esse período explica-se, essencialmente, por mudanças na base da pirâmide, resultado em boa parte das políticas de transferência de renda e de valorização do salário mínimo. Essas transformações, por sua vez, repercutiram no padrão de consumo das famílias brasileiras: produtos e serviços antes consumidos apenas pelos mais ricos passaram a ser consumidos também pela população de baixa renda.
+> Em resumo, o processo de redução de desigualdades no Brasil durante esse período explica-se, essencialmente, por mudanças na base da pirâmide, resultado em boa parte das políticas de transferência de renda e de valorização do salário mínimo. Essas transformações, por sua vez, repercutiram no padrão de consumo das famílias brasileiras: produtos e serviços antes consumidos apenas pelos mais ricos passaram a ser consumidos também pela população de baixa renda. Edição do Kindle posição  185-193
 
-Só aqui alguns caminhos a seguir: mostrar a redução da desigualdade, os setores que expandiram, o uso de mão de obra menos qualificada e a o grau de instrução dos trabalhadores contratados, mostrar a valorização do salário-mínimo. A porta que quis entrar:  o aumento da concessão do programa assistencial Bolsa Família." Edição do Kindle posição  185-193
+Só aqui alguns caminhos a seguir: mostrar a redução da desigualdade, os setores que expandiram, o uso de mão de obra menos qualificada e a o grau de instrução dos trabalhadores contratados, mostrar a valorização do salário-mínimo. A porta que quis entrar:  o aumento da concessão do programa assistencial Bolsa Família.
+
+A proposta é mostrar um pouco sobre esses dados, como baixa-los, processa-los e criar visualização de apoio a uma possível análise. Ressalto que esse tipo de análise é muito mais complexa do que este repositório busca fazer. 
 
 ## Fonte dos Dados
 Como diz no site “A Base dos Dados é uma organização não-governamental sem fins lucrativos e open source que atua para universalizar o acesso a dados de qualidade.” (https://basedosdados.org/). E lá esta tudo muito bem explicado do que tem disponível e como acessar.
@@ -25,8 +27,6 @@ Como diz no site “A Base dos Dados é uma organização não-governamental sem
 - Ciência e tecnologia: estudar sempre igual a um musculo.
 - Passar mais tempo no banco de dados na nuvem e assim desafios maiores.
 - Gerenciar o tempo e lidar com a frustração.
-
-
 
 ---
 Adilson Sampaio
